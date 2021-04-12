@@ -1,0 +1,15 @@
+Meat, 40
+Doll, 70
+Silk, 90
+Car, 20
+Google Pixel, 15
+Processor, 80
+Pants, 100
+Butter, 47
+Cookbook, 57
+Pillow, 35
+Mona Liza, 11
+Hat, 25
+Spoon, 105
+Lamp, 88 
+Wheel, 103

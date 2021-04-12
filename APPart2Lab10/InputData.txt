@@ -1,0 +1,15 @@
+Football ball, 60
+Basket case, 30
+Milk, 90
+Smetana, 20
+Videocard, 40
+Processor, 80
+Pants, 100
+Resharper, 15
+"CLR via C#", 25
+"Clean Code", 35
+Malevich square, 45
+Har, 75
+Cup, 85
+Salt, 95
+Sugar, 105
